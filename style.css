@@ -95,9 +95,10 @@ body {
     position: absolute;
     bottom: 4rem;
     left: calc(100vw - 8.3vw);
+    /* z-index: 1; */
 }
 
-.material-icons{
+.fa-light {
     color: white;
     font-size: 3rem;
 }
